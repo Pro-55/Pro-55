@@ -10,7 +10,7 @@ Just a hooman throwing random sh*t against the wall and hoping it would stick!
 <a href="https://paypal.me/PranitRane"><img alt="PayPal" src="https://img.shields.io/badge/-PranitRane-166bd7?style=flat-square&logo=paypal&link=https://paypal.me/PranitRane"/></a>
 </p>
 
-- 🚀 I’m currently working on Android.
-- 🌱 Trying to get better at Android, learn Backend and Flutter [Mainly for Web & Desktop].
-- ⏭️ Want to learn development for Apple ecosystem!
+- 🚀 Currently immersed in the world of Android development.
+- 🌱 Striving to master Android and explore Kotlin Multiplatform Mobile, Backend, and Flutter [with a focus on Web & Desktop].
+- ⏭️ Eager to dive into Apple ecosystem development!
 - 🐍 Proud Slytherin!
